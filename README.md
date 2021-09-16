@@ -5,6 +5,13 @@
 
 ![alt text](https://github.com/mourazo/opAmp_mAtoVolts/blob/main/Schematic_4-20m%20to%203%20v_2021-09-16.png?raw=true) 
 
+![alt text](https://github.com/mourazo/opAmp_mAtoVolts/blob/main/opAmp.gif?raw=true) 
+
+
+
+
+
+
 
 
 
